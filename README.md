@@ -1,6 +1,9 @@
 # ACM-ICPC
+## Directory structure
+Every directory contains a WIP subdirectory with work in progress solutions that have not yet been accepted.
+
 ### contest-polimi directory
-Problems statements and some solutions to the team selection contest of Politecnico di Milano. Reached rank 4!!
+Problem statements and some solutions to the team selection contest of Politecnico di Milano. Reached rank 4!!
 
 ### contest-unitn-october
 Solutions of some of the problems from our internal contest held in october. Problems taken from CERC 2014.
