@@ -1,2 +1,4 @@
-input
-a.*     
+input*
+output*
+*.exe
+*.out   
