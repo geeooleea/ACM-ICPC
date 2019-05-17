@@ -14,7 +14,7 @@ struct maxPQ {
 
 void Dijkstra(vector<vector<pair<int,T> > > &graph, int source) {
     fill(dist.begin(), dist.end(), INF);
-    priority_queue<pair<T,int>, vector<pair<T,int> >, maxPQ> q;
+    priority_queue<pair<T,int>, vector<pair<T,int> >, maxPQ > q;
 
     dist[source] = 0;
     q.push(make_pair(0, source));
